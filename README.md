@@ -1,6 +1,6 @@
 # ReadMe file Generator
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
+
  ## Description
   The project helps to create ReadMe files for GiHub users
   Link to project: undefined
